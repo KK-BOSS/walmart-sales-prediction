@@ -1,4 +1,4 @@
-# Walmart Sales Prediction – CSET 369
+# Walmart Sales Prediction
 
 This project predicts Walmart’s weekly store sales using multiple machine learning and deep learning models.  
 Models implemented include Linear Regression, Random Forest, KNN, XGBoost, and an RNN using TensorFlow/Keras.
